@@ -27,7 +27,7 @@ this command will compile G Java file and execute G class file integratedly.
 
 and then after you'll see a Visually appealing CMD screen Wellcome messege and the tile of my project Game 
 
-"COMMANDING THE CANVAS: An ASCII Odyssy"
+"COMMANDING THE CANVAS: An ASCII odyssey"
 
 then after The Menu is provided to choose to go for a unique Journey in each of the four totally differnt themed Stories.
 
